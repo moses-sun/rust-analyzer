@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["FeatureFlags","Feature flags hold fine-grained toggles for all user-visible features of rust-analyzer."]]});
